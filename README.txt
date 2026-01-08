@@ -1,4 +1,4 @@
-Personal webpage for Jonathan Richmond
+Personal webpage for Jonathan LeFevre Richmond
 Created 20 June 2023
 
 Template:
